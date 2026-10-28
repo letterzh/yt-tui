@@ -1,0 +1,17 @@
+# Секреты и локальные настройки
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Локальная база и служебные файлы
+*.sqlite3
+*.db
+downloads/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
