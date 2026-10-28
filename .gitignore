@@ -1,5 +1,6 @@
 # Секреты и локальные настройки
 .env
+.git-meta/
 
 # Python
 __pycache__/
